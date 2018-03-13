@@ -1,0 +1,19 @@
+下载官网最新版 xmind 8 pro update6, 或进入历史版本查看下载 , 绝对不能下载国内官方版本，国内版本无法输入序列号
+
+下载 XMindCrack.jar , 地址同上面的百度云地址
+
+正常安装 xmind
+
+进入安装目录, 并找到 xmind.ini
+
+windows: 如 c:\Program Files (x86)\XMind
+
+添加文本: -javaagent:./XMindCrack.jar
+   在 mac 下貌似需要绝对路径: -javaagent:/Applications/XMind.app/Contents/Eclipse/XMindCrack.jar
+
+在系统 hosts 中添加 127.0.0.1 www.xmind.net
+
+打开xmind, 邮箱随便填, 输入序列号: XAka34A2rVRYJ4XBIU35UZMUEEF64CMMIYZCK2FZZUQNODEKUHGJLFMSLIQMQUCUBXRENLK6NZL37JXP4PZXQFILMQ2RG5R7G4QNDO3PSOEUBOCDRYSSXZGRARV6MGA33TN2AMUBHEL4FXMWYTTJDEINJXUAV4BAYKBDCZQWVF3LWYXSDCXY546U3NBGOI3ZPAP2SO3CSQFNB7VVIY123456789012345
+
+
+https://github.com/zhoukekestar/notes/blob/master/_posts/2018-01~03/2018-01-25-xmind.md
